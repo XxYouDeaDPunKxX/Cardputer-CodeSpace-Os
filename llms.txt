@@ -1,0 +1,15 @@
+# Cardputer CodeSpace OS
+
+> Use a Cardputer ADV and a touch TFT to control an XFCE desktop running in GitHub Codespaces.
+
+CS OS was used on the development Codespace. The public bootstrap still needs an end-to-end test on a fresh Codespace. Audio can drop out and video can slow down when the desktop is busy.
+
+## Project
+
+- [Project overview](https://xxyoudeadpunkxx.github.io/Cardputer-CodeSpace-Os/)
+- [Source repository](https://github.com/XxYouDeaDPunKxX/Cardputer-CodeSpace-Os)
+- [Setup and firmware build](https://github.com/XxYouDeaDPunKxX/Cardputer-CodeSpace-Os/blob/main/docs/SETUP.md)
+- [Cardputer controls](https://github.com/XxYouDeaDPunKxX/Cardputer-CodeSpace-Os/blob/main/docs/CONTROLLI.md)
+- [V2 wiring](https://github.com/XxYouDeaDPunKxX/Cardputer-CodeSpace-Os/blob/main/docs/CABLAGGIO-V2.md)
+- [Development milestones and historical source packages](https://github.com/XxYouDeaDPunKxX/Cardputer-CodeSpace-Os/blob/main/docs/VERSIONI.md#historical-source-packages)
+- [Contributing](https://github.com/XxYouDeaDPunKxX/Cardputer-CodeSpace-Os/blob/main/CONTRIBUTING.md)

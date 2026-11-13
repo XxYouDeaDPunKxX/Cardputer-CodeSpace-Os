@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="1240" viewBox="0 0 1460 1240">
+<text x="52" y="32" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="38" fill="#1e2730">CS OS · V2 WIRING</text>
+<text x="52" y="85" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="23" fill="#1e2730">Adjustable backlight + touch IRQ · V2 wiring</text>
+<rect x="52" y="135" width="290" height="945" fill="#e6e9eb" stroke="#a0a9b1" stroke-width="2"/>
+<rect x="1060" y="135" width="348" height="945" fill="#e6e9eb" stroke="#a0a9b1" stroke-width="2"/>
+<text x="72" y="151" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">CARDPUTER ADV</text>
+<text x="1080" y="151" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">2.8″ TFT V1.2</text>
+<text x="72" y="191" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="19" fill="#1e2730">GPIO / power pin names</text>
+<text x="1080" y="191" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="19" fill="#1e2730">Display + XPT2046 touch</text>
+<text x="82" y="236" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">5V OUT</text>
+<text x="385" y="215" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">MARKED RED</text>
+<polyline points="330,250 1060,250" fill="none" stroke="#df1111" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="236" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">VCC</text>
+<text x="82" y="313" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">GND</text>
+<text x="385" y="292" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">BLACK · GND</text>
+<polyline points="330,327 1060,327" fill="none" stroke="#16191c" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="313" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">GND</text>
+<text x="82" y="390" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G5</text>
+<text x="385" y="369" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">ORANGE</text>
+<polyline points="330,404 1060,404" fill="none" stroke="#ee8000" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="390" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">CS</text>
+<text x="82" y="467" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G3</text>
+<text x="385" y="446" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">BROWN</text>
+<polyline points="330,481 1060,481" fill="none" stroke="#86502d" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="467" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">RESET</text>
+<text x="82" y="544" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G6</text>
+<text x="385" y="523" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">GREEN</text>
+<polyline points="330,558 1060,558" fill="none" stroke="#11854e" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="544" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">DC</text>
+<text x="82" y="621" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G14</text>
+<text x="385" y="600" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">BLUE · SPLIT</text>
+<polyline points="330,635 850,635 850,635 1060,635" fill="none" stroke="#1766d8" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="621" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">SDI / MOSI</text>
+<polyline points="330,635 850,635 850,662 1060,662" fill="none" stroke="#1766d8" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="648" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">T_DIN</text>
+<circle cx="850" cy="635" r="6" fill="#1766d8"/>
+<text x="82" y="698" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G40</text>
+<text x="385" y="677" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">PURPLE · SPLIT</text>
+<polyline points="330,712 850,712 850,712 1060,712" fill="none" stroke="#9142c9" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="698" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">SCK</text>
+<polyline points="330,712 850,712 850,739 1060,739" fill="none" stroke="#9142c9" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="725" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">T_CLK</text>
+<circle cx="850" cy="712" r="6" fill="#9142c9"/>
+<text x="82" y="775" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G39</text>
+<text x="385" y="754" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">GRAY · SPLIT</text>
+<polyline points="330,789 850,789 850,789 1060,789" fill="none" stroke="#777b83" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="775" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">SDO / MISO</text>
+<polyline points="330,789 850,789 850,816 1060,816" fill="none" stroke="#777b83" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="802" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">T_DO</text>
+<circle cx="850" cy="789" r="6" fill="#777b83"/>
+<text x="82" y="852" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G15</text>
+<text x="385" y="831" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">YELLOW</text>
+<polyline points="330,866 1060,866" fill="none" stroke="#e2b700" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="852" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">T_CS</text>
+<text x="82" y="929" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G13</text>
+<text x="385" y="908" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">RED · LED CONTROL</text>
+<polyline points="330,943 1060,943" fill="none" stroke="#dd3030" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="929" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">LED</text>
+<text x="82" y="1006" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="29" fill="#1e2730">G4</text>
+<text x="385" y="985" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">BLACK · IRQ</text>
+<polyline points="330,1020 1060,1020" fill="none" stroke="#16191c" stroke-width="6" stroke-linejoin="round"/>
+<text x="1083" y="1006" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="25" fill="#1e2730">T_IRQ</text>
+<text x="52" y="1101" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="27" fill="#1e2730">BLACK GND and BLACK IRQ are separate wires: DO NOT join them.</text>
+<text x="52" y="1142" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">TFT SDO and touch T_DO share G39. External module SD pins: DISCONNECTED.</text>
+<text x="52" y="1184" dominant-baseline="text-before-edge" font-family="Segoe UI,DejaVu Sans,sans-serif" font-size="22" fill="#1e2730">Rewire with power OFF and USB unplugged. Follow pin names, not drawing positions.</text>
+</svg>

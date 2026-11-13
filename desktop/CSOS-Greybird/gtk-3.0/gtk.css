@@ -1,0 +1,10 @@
+@import url('/usr/share/themes/@BASE_THEME@/gtk-3.0/gtk.css');
+/* Larger targets, same text scale. No universal widget padding. */
+menu menuitem { min-height: 26px; padding-top: 3px; padding-bottom: 3px; }
+button.image-button { min-width: 28px; min-height: 28px; }
+entry { min-height: 28px; }
+scrollbar.vertical, scrollbar.vertical slider { min-width: @SCROLLBAR_PX@px; }
+scrollbar.horizontal, scrollbar.horizontal slider { min-height: @SCROLLBAR_PX@px; }
+checkbutton check, radiobutton radio { min-width: 20px; min-height: 20px; }
+*:focus { outline-style: solid; outline-width: 2px; outline-color: #246db1; }
+.view:selected, .view:selected:focus { background-color: #246db1; color: #ffffff; }

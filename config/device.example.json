@@ -1,0 +1,10 @@
+{
+  "wifi_ssid": "",
+  "wifi_password": "",
+  "wss_host": "your-codespace-8089.app.github.dev",
+  "bridge_user": "",
+  "bridge_password": "",
+  "cxl_pin": "",
+  "github_token": "",
+  "codespace_name": ""
+}

@@ -1,0 +1,29 @@
+# Local credentials and products, including binaries embedding credentials.
+**/*_private.h
+.local/
+.tools/
+.venv/
+**/build/
+csos-client/build-*/
+**/__pycache__/
+*.pyc
+*.exe
+*.bin
+*.elf
+*.map
+*.log
+.env
+*.env
+bridge-private.json
+exposure-control.json
+autonomy-status.json
+presence-lease.json
+Xauthority*
+*.pem
+*.key
+*.zip
+*.tar
+csos-client/tests/*_generated.cpp
+csos-client/tests/hud_fixture_values.h
+# Superseded local HTML exploration; firmware renderers are the UI reference.
+outputs/

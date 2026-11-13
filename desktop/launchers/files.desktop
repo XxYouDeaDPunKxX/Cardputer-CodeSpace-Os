@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=File
+Exec=exo-open --launch FileManager %u
+Icon=system-file-manager

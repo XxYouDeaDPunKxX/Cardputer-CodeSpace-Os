@@ -1,0 +1,6 @@
+mss==10.2.0
+pillow==12.3.0
+python-xlib==0.33
+six==1.17.0
+websockify==0.13.0
+websockets==15.0.1

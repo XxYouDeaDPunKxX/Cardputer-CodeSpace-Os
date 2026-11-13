@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Browser
+Exec=exo-open --launch WebBrowser %u
+Icon=web-browser

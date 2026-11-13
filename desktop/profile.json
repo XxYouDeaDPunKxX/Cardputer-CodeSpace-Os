@@ -1,0 +1,98 @@
+{
+  "theme": "CSOS-Greybird",
+  "base_theme": "Greybird",
+  "scrollbar_px": 12,
+  "gtk_overlay_scrolling": false,
+  "xsettings": {
+    "/Xft/DPI": 120
+  },
+  "xfwm4": {
+    "/general/theme": "Greybird-accessibility",
+    "/general/use_compositing": false,
+    "/general/tile_on_move": false,
+    "/general/box_move": false,
+    "/general/move_opacity": 100,
+    "/general/resize_opacity": 100
+  },
+  "desktop": {
+    "/backdrop/screen0/monitorscreen/workspace0/image-style": 0,
+    "/backdrop/screen0/monitorscreen/workspace0/color-style": 0
+  },
+  "panel": {
+    "size": 40,
+    "icon-size": 24,
+    "autohide-behavior": 0,
+    "position": "p=6;x=0;y=0",
+    "position-locked": true,
+    "length": 100,
+    "mode": 0,
+    "disable-struts": false
+  },
+  "plugins": [
+    {
+      "name": "applicationsmenu",
+      "settings": {
+        "show-button-title": false
+      }
+    },
+    {
+      "name": "launcher"
+    },
+    {
+      "name": "tasklist",
+      "settings": {
+        "grouping": 1
+      }
+    },
+    {
+      "name": "separator",
+      "settings": {
+        "expand": true,
+        "style": 0
+      }
+    },
+    {
+      "name": "pager"
+    },
+    {
+      "name": "showdesktop"
+    },
+    {
+      "name": "directorymenu"
+    },
+    {
+      "name": "systray",
+      "settings": {
+        "square-icons": true
+      }
+    },
+    {
+      "name": "pulseaudio",
+      "settings": {
+        "enable-keyboard-shortcuts": true,
+        "show-notifications": true
+      }
+    },
+    {
+      "name": "clock",
+      "settings": {
+        "digital-time-format": "%H:%M",
+        "digital-layout": 3
+      }
+    },
+    {
+      "name": "actions",
+      "settings": {
+        "appearance": 1,
+        "button-title": 3,
+        "custom-title": "Sessione"
+      }
+    }
+  ],
+  "launchers": [
+    "terminal",
+    "files",
+    "browser",
+    "appfinder"
+  ]
+}
